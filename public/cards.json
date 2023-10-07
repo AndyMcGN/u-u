@@ -1,0 +1,152 @@
+[
+    {
+        "cardName": "Americorn",
+        "cardType": "spcial unicorn", 
+        "text":"When this card enters your stable, choose any player. Pull a card from that player's hand."
+    },
+    {
+        "cardName": "Back Kick",
+        "cardType": "magic", 
+        "text":"Choose anu player. Return a card in that player's stable to their hand. That player must DISCARD a card."
+    },
+    {
+        "cardName": "Unfair Bargain",
+        "cardType": "magic", 
+        "text":"Trade hands with any other player."
+    },
+    {
+        "cardName": "Neigh 1",
+        "cardType": "neigh", 
+        "text": "Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile."
+    },
+     {
+        "cardName": "Neigh 2",
+        "cardType": "neigh", 
+        "text": "Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile."
+    }, 
+     {
+        "cardName": "Neigh 3",
+        "cardType": "neigh", 
+        "text": "Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile."
+    },
+    {
+        "cardName": "Neigh 4",
+        "cardType": "neigh", 
+        "text": "Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile."
+    },
+    {
+        "cardName": "Neigh 5",
+        "cardType": "neigh", 
+        "text": "Play this card when any other player tries to play a card. Stop that player's card from being played and send it to the discard pile."
+    }, 
+    {
+        "cardName": "Extremely Destructive Unicorn",
+        "cardType": "spcial unicorn",
+        "text": "When this card enteres your stable, each player must SACRIFICE a Unicorn card"
+    }, 
+    {
+        "cardName": "Rainbow Unicorn",
+        "cardType": "spcial unicorn", 
+        "text":"When this card enters your stable, you may bring a basic unicorn from your hand directly into your stable."
+    },
+    {
+        "cardName": "Basic Unicorn 1",
+        "cardType": "basic unicorn", 
+        "text":"Random basic unicorn."
+    },
+    {
+        "cardName": "Basic Unicorn 2",
+        "cardType": "basic unicorn", 
+        "text":"Random basic unicorn."
+    },
+    {
+        "cardName": "Basic Unicorn 3",
+        "cardType": "basic unicorn", 
+        "text":"Random basic unicorn."
+    },
+    {
+        "cardName": "Basic Unicorn 4",
+        "cardType": "basic unicorn", 
+        "text":"Random basic unicorn."
+    },
+    {
+        "cardName": "Basic Unicorn 5",
+        "cardType": "basic unicorn", 
+        "text":"Random basic unicorn."
+    },
+    {
+        "cardName": "Basic Unicorn 6",
+        "cardType": "basic unicorn", 
+        "text":"Random basic unicorn."
+    },
+    {
+        "cardName": "Rhinocorn",
+        "cardType": "spcial unicorn", 
+        "text": "If this card is in your stable at the beginning of your go, you may DESTROY a unicorn card. If you do, immediately skip to your End of Turn phase."
+    }, 
+     {
+        "cardName": "Swift Flying Unicorn",
+        "cardType": "spcial unicorn", 
+        "text": "When this card enters your Stable, you may choose an Instant card from the discard pile and add it to your hand. If this card would be sacrificed or destroyed, return it to your hand instead."
+    }, 
+     {
+        "cardName": "Narwhal Torpedo",
+        "cardType": "spcial unicorn", 
+        "text": "When this card enters your Stable, SACRIFICE all downgrade cards."
+    }, 
+    {
+        "cardName": "Majestic Flying Unicorn",
+        "cardType": "spcial unicorn", 
+        "text": "When this card enters your Stable, you may choose a Unicorn card from the discard pile and add it to your hand. If this card would be sacrificed or destroyed, return it to your hand instead."
+    }, 
+     {
+        "cardName": "Rainbow Mane",
+        "cardType": "upgrade", 
+        "text": "This card can only enter a Stable if there is a Basic Unicorn in that Stable. If this Card is in your Stable at the beginning  of your turn, you may bring a Basic Unicorn directly from your hand into your stable."
+    }, 
+     {
+        "cardName": "Good Deal",
+        "cardType": "magic", 
+        "text": "DRAW 3 cards and DISCARD a card."
+    }, 
+     {
+        "cardName": "Glitter tornado",
+        "cardType": "magic", 
+        "text": "Return a card in each player's stable to that player's hand."
+    }, 
+     {
+        "cardName": "Extra Tail",
+        "cardType": "upgrade", 
+        "text": "This card can only enter a Stable if there is a Basic Unicorn in that Stable. If this Card is in your Stable at the beginning  of your turn, you may DRAW an extra card."
+    }, 
+     {
+        "cardName": "Two for One",
+        "cardType": "magic", 
+        "text": "SACRIFICE a card, then DESTROY 2 cards."
+    }, 
+    {
+        "cardName": "Yay",
+        "cardType": "upgrade",
+        "text": "Cards you play cannot be Neigh'd"
+    },
+     {
+        "cardName": "Sadistic Ritual",
+        "cardType": "downgrade", 
+        "text": "If this card is in your Stable at the beginning of your turn, SACRIFICE a unicord card, then DRAW a card."
+    }, 
+     {
+        "cardName": "Pandamonium",
+        "cardType": "downgrade", 
+        "text": "All of your Unicorns are now considered Pandas. Cards that affect Uicorn cards do not affect your Pandas"
+    }, 
+     {
+        "cardName": "Tiny Stable",
+        "cardType": "downgrade", 
+        "text": "If at any time you have more than 3 Unicorns in your Stable, SACRIFICE a Unicorn card."
+    }, 
+    {
+        "cardName": "Broken Stable",
+        "cardType": "downgrade", 
+        "text": "You cannot play upgrade cards."
+    }
+]
